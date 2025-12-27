@@ -4,10 +4,10 @@ Big electronics project that shows "Thank You😄" in big breadboard and very co
 
 ---
 # Here The Pictures :
-<img width="776" height="356" alt="sc1" src="https://github.com/user-attachments/assets/a6a0c576-8c12-4c81-9e6f-18ed3feecbc6" />
+![sc1e](https://github.com/user-attachments/assets/8694df09-1000-4435-a9af-e88e18d37659)
 
 
-<img width="768" height="358" alt="sc2" src="https://github.com/user-attachments/assets/38772a67-560e-4a15-ae9a-ed38c3e5cb54" />
+![sc2e](https://github.com/user-attachments/assets/3c0f8fe5-5688-4578-a40d-3d5026d8fec2)
 
 
 # Electrical Circuit
