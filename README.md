@@ -10,7 +10,7 @@ Big electronics project that shows "Thank You😄" in big breadboard and very co
 ![sc2e](https://github.com/user-attachments/assets/3c0f8fe5-5688-4578-a40d-3d5026d8fec2)
 
 
-# Electrical Circuit
+# Electrical Circuit :
 ![IMG_20251228_021713](https://github.com/user-attachments/assets/d1a173e3-3199-410d-a3ca-3b3e2287fe79)
 
 
